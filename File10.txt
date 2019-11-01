@@ -2,3 +2,6 @@ Welcome to the Bank
 
 Create Customer
 Create Employee
+
+OTP Generation
+Fund Transfer
