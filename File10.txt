@@ -4,6 +4,13 @@ Create Customer
 Create Employee
 
 
+OTP Generation
+Fund Transfer
+
+Done all changes
+
+
 Cash Withdrawal
 
 Final Copy
+
